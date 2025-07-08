@@ -1,6 +1,8 @@
 # KIA-CEED-CD-FACELIFT-RVM-ADAPTER
 Arduino+CAN sketch for adaptation rear view camera from CEED CD PE (22MY facelift) to CEED CD non-facelift (20MY-21MY)
 
+IMPORTANT: Suitable for all types of automatic transmissions. Tested with 7DCT. I do not guarantee 100% correct behavior on manual transmission.
+
 Required:
 1) Arduino Nano or another compatible AVR board
 2) CAN board for Arduino with MCP2515
