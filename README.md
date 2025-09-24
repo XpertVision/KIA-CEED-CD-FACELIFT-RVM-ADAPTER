@@ -13,6 +13,7 @@ Schema for connecting Arduino and CAN shield:<br/>
 Arduino: D13 -> CAN shield: SCK
 Arduino: D11 -> CAN shield: SI
 Arduino: D12 -> CAN shield: SO
+Arduino: D10 -> CAN shield: CS
 Arduino: GND -> CAN shield: GND
 Arduino: 5V  -> CAN shield: VCC</pre>
 
